@@ -24,3 +24,12 @@
     border:1px solid yellow;
     grid-area: footer;
 }
+.item-2, .item-3{
+    background-color:green
+}
+* {
+    border:5px solid black
+} 
+.container > * {
+    background-color: blue;
+}
